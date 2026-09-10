@@ -1,1 +1,12 @@
+I use a piece of software called 2DDesign, it is widely used in UK schools but it has a proprietary file format.
+
+I make the front panels by opening the kicad file making a copy of the pcb, and then place a circle over everything that needs a hole cut. I then export that as a SVG.
+2DDesign does take a SVG input so I import it into LibreCad, do the editing and then export that as a .dxf file which will be imported by 2D Design.
+
+I have added both here
+
+There are two version of the front panel. One to fit the double pattress UK socket/outlet which I use at school. There is also a eurorack size panel too.
+
+
+
 
